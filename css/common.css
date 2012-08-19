@@ -1,0 +1,153 @@
+body {
+    background-color: #F0F2F4;
+    font: 13px/15px 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.container {
+    width: 1130px;
+    height:1100Px;
+    margin-left: 30px;
+    border-left: 1px solid #939393;
+    padding-left: 10px;
+}
+
+.main{
+    margin-top: 115px;
+}
+
+h4 {
+    font-style: italic;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+    color: #1A1818;
+}
+
+header {
+    height:85px;
+    width: 1130px;
+    position: fixed;
+    background-color:#F0F2F4;
+    top:0;
+}
+
+.logo {
+    display: inline-block;
+    width: 280px;
+    height: 100%;
+    margin-top: 30px;
+    border-right: 1px solid #939393;
+}
+
+nav {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 30px;
+    width: 620px;
+    height: 100%;
+}
+
+nav ul {
+    list-style: none;
+    margin-top: 0;
+    padding-left: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    height: 25px;
+    width: 130px;
+    padding-left: 10px;
+    border-left: 1px solid #939393;
+}
+
+ul li:first-child {
+    border-left: none;
+}
+
+a {
+    color: #1A1818;
+    text-decoration: none;
+}
+
+.contact {
+    display: inline-block;
+    margin-top: 30px;
+    float: right;
+}
+
+.item {
+    width: 1130px;
+}
+
+.item-title {
+    width: 270px;
+    float: left;
+    padding-top: 15px;
+    border-top: 1px solid #939393;
+}
+
+.item-description {
+    margin-left: 10px;
+    border-left: 1px solid #939393;
+    width: 848px;
+    float: left;
+}
+
+.content {
+    border-top: 1px solid #939393;
+    margin-left: 10px;
+    width: 690px;
+    color: #939393;
+    padding-top: 10px;
+}
+
+.one-lattice p {
+    font: 21px/23px 'Times New Roman', Times, serif;
+    color: black;
+}
+
+
+.two-lattices .left-lattice {
+    float: left;
+    width: 300px;
+}
+
+.two-lattices .right-lattice {
+    float: left;
+    margin-left: 30px;
+    width: 300px;
+}
+
+.four-lattices .first-lattice{
+    float: left;
+    width: 150px;
+}
+
+.four-lattices .second-lattice{
+    float: left;
+    width: 150px;
+}
+
+.four-lattices .third-lattice{
+    float: left;
+    width: 150px;
+}
+
+.four-lattices .forth-lattice{
+    float: left;
+    width: 150px;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+    margin-top: 0;
+}
+
+.left-line{
+    width:
+}
+
+
